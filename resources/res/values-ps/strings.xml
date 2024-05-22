@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="combobox_description">کومبو باکس</string>
+    <string name="image_description">عکس</string>
+    <string name="imagebutton_description">تڼۍ، انځور</string>
+    <string name="link_description">لینک</string>
+    <string name="menu_description">مېنیو</string>
+    <string name="state_off_description">غیر فعال</string>
+    <string name="state_on_description">روښانه</string>
+</resources>

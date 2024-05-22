@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="combobox_description">Qutiya Vebûnok</string>
+    <string name="image_description">Dîmen</string>
+    <string name="imagebutton_description">Bişkok, Dîmen</string>
+    <string name="link_description">Lînk</string>
+    <string name="menu_description">Menû</string>
+    <string name="state_on_description">vekirî</string>
+</resources>

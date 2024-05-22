@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_description">Sawir</string>
+    <string name="imagebutton_description">Batoon, Sawir</string>
+    <string name="link_description">Linki</string>
+    <string name="menu_description">Tusmada</string>
+    <string name="state_off_description">dansan</string>
+    <string name="state_on_description">daaran</string>
+</resources>

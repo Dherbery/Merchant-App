@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_description">Bayanan Ankararwa</string>
+    <string name="catalyst_dev_menu_header">Mazaɓar Martanin Native Dev (%1$s)</string>
+    <string name="catalyst_dev_menu_sub_header">Gudanar da %1$s</string>
+    <string name="combobox_description">Jerin Akwain Zaɓi ko Shigar da Rubutu</string>
+    <string name="header_description">Kanu</string>
+    <string name="image_description">Hoto</string>
+    <string name="imagebutton_description">Madanni, Hoto</string>
+    <string name="link_description">Kafa</string>
+    <string name="menu_description">Mazaɓa</string>
+    <string name="menubar_description">Bar Na Mazaɓa</string>
+    <string name="menuitem_description">Mazaɓar abu</string>
+    <string name="progressbar_description">Bar Na Nuna Ci Gaba</string>
+    <string name="radiogroup_description">Rukunin Rediyo</string>
+    <string name="rn_tab_description">Madannin shiga gurbi</string>
+    <string name="scrollbar_description">Bar Na Jirgawa</string>
+    <string name="spinbutton_description">Madanni Ƙarawa ko Rage Kima</string>
+    <string name="state_busy_description">aiki</string>
+    <string name="state_collapsed_description">rusasshe</string>
+    <string name="state_expanded_description">an faɗaɗa</string>
+    <string name="state_mixed_description">gauraye</string>
+    <string name="state_off_description">kashe</string>
+    <string name="state_on_description">kunna</string>
+    <string name="state_unselected_description">wanda ba a zaɓa ba</string>
+    <string name="summary_description">Taƙaitawa</string>
+    <string name="tablist_description">Jerin Madannin Shiga Gurbi</string>
+    <string name="timer_description">Na\'urar sarrafa lokaci</string>
+    <string name="toolbar_description">Bar Na Kayan Aiki</string>
+</resources>

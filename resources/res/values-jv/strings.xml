@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_description">Pengenget</string>
+    <string name="catalyst_dev_menu_header">Menu React Native Dev (%1$s)</string>
+    <string name="catalyst_dev_menu_sub_header">Lagi tayang %1$s</string>
+    <string name="combobox_description">Kothak Kombo</string>
+    <string name="header_description">Judhul</string>
+    <string name="image_description">Gambar</string>
+    <string name="imagebutton_description">Tombol, Gambar</string>
+    <string name="link_description">Pranala</string>
+    <string name="menubar_description">Wilah Menu</string>
+    <string name="menuitem_description">Item Menu</string>
+    <string name="progressbar_description">Wilah Progres</string>
+    <string name="radiogroup_description">Grup Radio</string>
+    <string name="scrollbar_description">Wilah Nggulung</string>
+    <string name="spinbutton_description">Tombol Muter</string>
+    <string name="state_busy_description">sibuk</string>
+    <string name="state_collapsed_description">diciutake</string>
+    <string name="state_expanded_description">dijembarake</string>
+    <string name="state_mixed_description">mix</string>
+    <string name="state_off_description">mati</string>
+    <string name="state_on_description">urip</string>
+    <string name="state_unselected_description">wurung dipilih</string>
+    <string name="summary_description">Ringkesan</string>
+    <string name="tablist_description">Daftar Tab</string>
+    <string name="toolbar_description">Wilah Alat</string>
+</resources>
